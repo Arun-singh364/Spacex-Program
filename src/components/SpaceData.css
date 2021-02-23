@@ -1,0 +1,46 @@
+#title{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+}
+
+#Spacexdata {
+    text-align: center;
+    width: 100%;
+    font-size: medium;
+    border-collapse: collapse;
+    border: 5px solid #ddd;
+    font-family:'Trebuchet MS', Arial, sans-serif;
+  }
+  #Spacexdata td, #Spacexdata th{
+      border: 1px solid #ddd;
+      padding: 8px;
+  }
+
+  #Spacexdata tr{
+    border: 3px solid #ddd;
+  }
+
+  #Spacexdata th{
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: center;
+      background-color: #4CAF50;
+      color: white;
+  }
+  #Spacexdata tr:hover{background-color: #ddd;}
+
+  
+  hr{
+      color:red;
+      width: 20%;
+  
+  }
+
+  #dropdown-basic{
+    margin-left:50px ;
+    
+  }
+  .input-group{
+    margin-bottom: 10px;
+  }
